@@ -3,6 +3,9 @@
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
+      <div>
+        我是b开发项目内容
+      </div>
     </div>
     <router-view/>
   </div>
